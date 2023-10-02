@@ -31,3 +31,4 @@ Since the Qt Company doesn't ship the MYSQL/MARIADB SQL driver with the Qt binar
 
 * Put the libqsqlmysql.so, libqsqlmysql.dylib or qsqlmysql.dll in folder `plugins/sqldriver` inside the Qt installation or alongside the executable (application deployment). 
 * Put libmariadb.so, libmariadb.dylib or libmariadb.dll alongside the application executable (necessitates OpenSSL libraries).
+* 
